@@ -1,4 +1,4 @@
-This is a simple tutorial of RPC in Go based on the documentation provided in the package [rpc](rpc%5D%28https://pkg.go.dev/net/rpc%29). The example ilustrates the interaction between a server and a client that requests a calc for two numbers based on the operation provided.
+This is a simple tutorial of RPC in Go based on the documentation provided in the package [rpc](https://pkg.go.dev/net/rpc). The example ilustrates the interaction between a server and a client that requests a calc for two numbers based on the operation provided.
 
 ### Usage
 
